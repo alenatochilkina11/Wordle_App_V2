@@ -71,6 +71,7 @@
 		99CF2AA729B0168700B4973F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoardController+Extensions.swift"; sourceTree = "<group>"; };
 		99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extensions.swift"; sourceTree = "<group>"; };
+		F75B7D242AC29215006B4672 /* Wordle_V2_Walkthrough.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Wordle_V2_Walkthrough.gif; sourceTree = "<group>"; };
 		F7AE494D2AC2877B00A79B72 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -103,6 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				F7AE494D2AC2877B00A79B72 /* README.md */,
+				F75B7D242AC29215006B4672 /* Wordle_V2_Walkthrough.gif */,
 				996B84A6299990A900133037 /* Wordle */,
 				996B84BD299990AA00133037 /* WordleTests */,
 				996B84C7299990AA00133037 /* WordleUITests */,
